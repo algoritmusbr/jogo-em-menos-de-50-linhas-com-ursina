@@ -1,2 +1,2 @@
-# jogo-exemplo
-Um jogo simples criado com a Engine Ursina. 
+# Requerimentos
+Python 3.6 ou mais recente. https://www.python.org/downloads/
